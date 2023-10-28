@@ -209,5 +209,5 @@ Generar en while,do while ,for.
 
 ## Ejecución
 <p align="center">
-  <img src="Imagenes/3.png"  width="600" height="500">
+  <img src="Imagenes/3.png">
 </p>
