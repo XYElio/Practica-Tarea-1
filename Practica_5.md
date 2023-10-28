@@ -202,5 +202,5 @@
 
 ## Ejecución
 <p align="center">
-  <img src="Imagenes/5.png"  width="600" height="500">
+  <img src="Imagenes/5.png">
 </p>
